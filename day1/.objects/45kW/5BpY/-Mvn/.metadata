@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ass6.xsl - Notepad(1)",
+  "Type": "Screen",
+  "Id": "-MvnV_zCQkytsjJBeDqttw",
+  "Reference": "6zqKyDsocEqGhGB7QRFX2Q/-MvnV_zCQkytsjJBeDqttw",
+  "ParentRef": "6zqKyDsocEqGhGB7QRFX2Q/5BpYV1Bh90WKJXlq1eQUXw",
+  "Created": "2025-10-17T14:36:49.8084931Z",
+  "Updated": "2025-10-17T14:36:49.8084931Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
