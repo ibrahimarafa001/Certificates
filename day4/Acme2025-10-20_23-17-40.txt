@@ -1,0 +1,93 @@
+107814348 | Calculate Client Security Hash | WI5 | Open | 2024-11-12
+107814365 | Generate Yearly Report for Vendor | WI4 | Open | 2022-04-17
+107814414 | Verify Account Position | WI1 | Open | 2024-07-15
+107814370 | Process Vendor Invoice | WI3 | Open | 2018-08-25
+107814346 | Calculate Client Security Hash | WI5 | Open | 2024-01-16
+107814382 | Research Client Check Copy | WI2 | Open | 2025-05-17
+107814429 | Verify Account Position | WI1 | Open | 2021-07-22
+107814347 | Calculate Client Security Hash | WI5 | Open | 2024-06-12
+107814410 | Verify Account Position | WI1 | Open | 2025-07-31
+107814409 | Research Client Check Copy | WI2 | Open | 2017-12-10
+107814357 | Generate Yearly Report for Vendor | WI4 | Open | 2019-01-24
+107814430 | Verify Account Position | WI1 | Open | 2018-11-18
+107814426 | Verify Account Position | WI1 | Open | 2022-03-12
+107814351 | Generate Yearly Report for Vendor | WI4 | Open | 2022-11-17
+107814378 | Process Vendor Invoice | WI3 | Open | 2020-06-29
+107814415 | Verify Account Position | WI1 | Open | 2022-02-27
+107814407 | Research Client Check Copy | WI2 | Open | 2020-03-01
+107814342 | Calculate Client Security Hash | WI5 | Open | 2020-12-16
+107814411 | Verify Account Position | WI1 | Open | 2021-08-28
+107814367 | Process Vendor Invoice | WI3 | Open | 2018-08-03
+107814340 | Calculate Client Security Hash | WI5 | Open | 2023-08-04
+107814397 | Research Client Check Copy | WI2 | Open | 2020-11-21
+107814358 | Generate Yearly Report for Vendor | WI4 | Open | 2022-03-24
+107814338 | Calculate Client Security Hash | WI5 | Open | 2017-12-14
+107814368 | Process Vendor Invoice | WI3 | Open | 2024-08-06
+107814341 | Calculate Client Security Hash | WI5 | Open | 2019-09-27
+107814387 | Research Client Check Copy | WI2 | Open | 2017-05-18
+107814398 | Research Client Check Copy | WI2 | Open | 2019-12-02
+107814425 | Verify Account Position | WI1 | Open | 2024-01-03
+107814399 | Research Client Check Copy | WI2 | Open | 2020-05-20
+107814420 | Verify Account Position | WI1 | Open | 2021-02-20
+107814423 | Verify Account Position | WI1 | Open | 2023-11-22
+107814381 | Research Client Check Copy | WI2 | Open | 2022-02-26
+107814392 | Research Client Check Copy | WI2 | Open | 2018-09-01
+107814375 | Process Vendor Invoice | WI3 | Open | 2024-11-18
+107814422 | Verify Account Position | WI1 | Open | 2018-07-22
+107814363 | Generate Yearly Report for Vendor | WI4 | Open | 2020-04-14
+107814372 | Process Vendor Invoice | WI3 | Open | 2022-04-25
+107814353 | Generate Yearly Report for Vendor | WI4 | Open | 2024-02-06
+107814364 | Generate Yearly Report for Vendor | WI4 | Open | 2019-10-07
+107814369 | Process Vendor Invoice | WI3 | Open | 2018-05-23
+107814380 | Research Client Check Copy | WI2 | Open | 2025-09-02
+107814354 | Generate Yearly Report for Vendor | WI4 | Open | 2020-01-24
+107814339 | Calculate Client Security Hash | WI5 | Open | 2017-04-25
+107814395 | Research Client Check Copy | WI2 | Open | 2020-03-11
+107814355 | Generate Yearly Report for Vendor | WI4 | Open | 2020-08-19
+107814393 | Research Client Check Copy | WI2 | Open | 2022-01-24
+107814413 | Verify Account Position | WI1 | Open | 2023-10-21
+107814350 | Generate Yearly Report for Vendor | WI4 | Open | 2021-09-20
+107814391 | Research Client Check Copy | WI2 | Open | 2024-04-09
+107814394 | Research Client Check Copy | WI2 | Open | 2021-04-22
+107814427 | Verify Account Position | WI1 | Open | 2019-05-18
+107814418 | Verify Account Position | WI1 | Open | 2019-02-11
+107814349 | Calculate Client Security Hash | WI5 | Open | 2022-05-02
+107814389 | Research Client Check Copy | WI2 | Open | 2024-02-03
+107814388 | Research Client Check Copy | WI2 | Open | 2024-03-10
+107814345 | Calculate Client Security Hash | WI5 | Open | 2018-08-06
+107814417 | Verify Account Position | WI1 | Open | 2019-08-17
+107814371 | Process Vendor Invoice | WI3 | Open | 2018-07-20
+107814401 | Research Client Check Copy | WI2 | Open | 2023-07-27
+107814374 | Process Vendor Invoice | WI3 | Open | 2022-01-02
+107814373 | Process Vendor Invoice | WI3 | Open | 2025-06-12
+107814352 | Generate Yearly Report for Vendor | WI4 | Open | 2018-03-20
+107814379 | Process Vendor Invoice | WI3 | Open | 2018-12-30
+107814362 | Generate Yearly Report for Vendor | WI4 | Open | 2021-07-24
+107814383 | Research Client Check Copy | WI2 | Open | 2023-11-05
+107814402 | Research Client Check Copy | WI2 | Open | 2020-12-07
+107814428 | Verify Account Position | WI1 | Open | 2024-12-05
+107814386 | Research Client Check Copy | WI2 | Open | 2022-02-25
+107814416 | Verify Account Position | WI1 | Open | 2017-09-08
+107814403 | Research Client Check Copy | WI2 | Open | 2022-03-30
+107814356 | Generate Yearly Report for Vendor | WI4 | Open | 2025-06-27
+107814390 | Research Client Check Copy | WI2 | Open | 2025-07-07
+107814419 | Verify Account Position | WI1 | Open | 2024-01-08
+107814400 | Research Client Check Copy | WI2 | Open | 2023-05-04
+107814406 | Research Client Check Copy | WI2 | Open | 2024-05-27
+107814396 | Research Client Check Copy | WI2 | Open | 2020-12-29
+107814404 | Research Client Check Copy | WI2 | Open | 2022-09-23
+107814360 | Generate Yearly Report for Vendor | WI4 | Open | 2022-01-30
+107814343 | Calculate Client Security Hash | WI5 | Open | 2023-01-20
+107814408 | Research Client Check Copy | WI2 | Open | 2018-02-28
+107814385 | Research Client Check Copy | WI2 | Open | 2017-02-26
+107814376 | Process Vendor Invoice | WI3 | Open | 2017-10-19
+107814361 | Generate Yearly Report for Vendor | WI4 | Open | 2022-11-02
+107814412 | Verify Account Position | WI1 | Open | 2019-04-02
+107814384 | Research Client Check Copy | WI2 | Open | 2024-11-21
+107814377 | Process Vendor Invoice | WI3 | Open | 2023-04-13
+107814424 | Verify Account Position | WI1 | Open | 2022-10-29
+107814405 | Research Client Check Copy | WI2 | Open | 2023-02-08
+107814421 | Verify Account Position | WI1 | Open | 2021-02-16
+107814359 | Generate Yearly Report for Vendor | WI4 | Open | 2020-11-04
+107814344 | Calculate Client Security Hash | WI5 | Open | 2022-05-04
+107814366 | Process Vendor Invoice | WI3 | Open | 2023-08-30

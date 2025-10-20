@@ -1,0 +1,12 @@
+
+name is :The Godfather
+year is :(1972)
+rating is: 97%
+
+name is :Casablanca
+year is :(1942)
+rating is: 99%
+
+name is :L.A. Confidential
+year is :(1997)
+rating is: 99%
