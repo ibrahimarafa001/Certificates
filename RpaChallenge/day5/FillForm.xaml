@@ -107,7 +107,7 @@
       <AssemblyReference>System.Linq.Expressions</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="FillForm" sap:VirtualizedContainerService.HintSize="1177,5060" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="FillForm" sap:VirtualizedContainerService.HintSize="1281,5060" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -299,7 +299,7 @@
                                           <uix:TargetAnchorable BrowserURL="rpachallenge.com" CVScreenId="eb72edef-52dd-44df-a04a-9cfa7de07853" ContentHash="Nw0_gGW9m0uWBVzWBx23iA" DesignTimeRectangle="584, 551, 116, 36" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="954112e1-e4b8-48a6-8806-da9608a2df20" InformativeScreenshot="0b9fdabf11777df298b199f9e8da2f50.png" Reference="NolrhdKwyEmRUtUc1IeE4g/6V7JzIIF5UCQpsDnU4nmSQ" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive" />
                                         </uix:NClick.Target>
                                       </uix:NClick>
-                                      <ui:DeleteFileX DisplayName="Delete File" sap:VirtualizedContainerService.HintSize="416,104" sap2010:WorkflowViewState.IdRef="DeleteFileX_1" Path="C:\Users\NV_USER\OneDrive\Documents\UiPath\TEST\RPAChallenge_.xlsx" />
+                                      <ui:DeleteFileX DisplayName="Delete File" sap:VirtualizedContainerService.HintSize="416,104" sap2010:WorkflowViewState.IdRef="DeleteFileX_1" Path="C:\Users\NV_USER\OneDrive\Documents\UiPath\RpaChallenge\RPAChallenge_.xlsx" />
                                     </Sequence>
                                   </ActivityAction>
                                 </ui:ForEachRow.Body>

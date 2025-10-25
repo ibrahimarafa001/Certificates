@@ -122,7 +122,7 @@
               <OutArgument x:TypeArguments="x:String">[Path]</OutArgument>
             </ui:AssignOperation.To>
             <ui:AssignOperation.Value>
-              <InArgument x:TypeArguments="x:String">C:\Users\NV_USER\OneDrive\Documents\UiPath\TEST\RPAChallenge_.xlsx</InArgument>
+              <InArgument x:TypeArguments="x:String">C:\Users\NV_USER\OneDrive\Documents\UiPath\RpaChallenge\RPAChallenge_.xlsx</InArgument>
             </ui:AssignOperation.Value>
           </ui:AssignOperation>
         </scg:List>
