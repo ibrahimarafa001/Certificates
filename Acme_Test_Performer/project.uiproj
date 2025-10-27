@@ -1,0 +1,6 @@
+{
+  "Name": "Acme_Test_Performer",
+  "ProjectType": "Process",
+  "Description": "Robotic Enterprise Framework",
+  "MainFile": "Main.xaml"
+}
