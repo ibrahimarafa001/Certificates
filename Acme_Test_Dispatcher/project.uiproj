@@ -1,6 +1,0 @@
-{
-  "Name": "Acme_Test_Dispatcher",
-  "ProjectType": "Process",
-  "Description": "Robotic Enterprise Framework",
-  "MainFile": "Main.xaml"
-}
